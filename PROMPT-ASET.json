@@ -1,0 +1,15 @@
+{
+  "tool": "ImageGen bawaan",
+  "assets": [
+    {
+      "key": "world",
+      "transparent_background": false,
+      "prompt": "Use case: stylized-concept. Asset type: final illustrated background for a child-friendly educational anime racing game about the water cycle. Create a gorgeous polished 16:9 wide anime landscape, painterly animation background with precise cel-shaded details: turquoise river winding through lush green highland valley, distant dramatic blue mountains, a luminous waterfall to the right, soft white towering cumulus clouds, a few floating islands high in the sky, wildflowers in foreground, sunny cyan and emerald colors with golden light, sense of speed and adventure. Scenic eye-level panorama, open gentle sky in the upper half, landscape horizon about 60 percent down. The left third is visually quieter for dark UI title overlay. No people, no cars, no road in foreground, no text, no logos, no UI, no watermark. High production quality anime environment art, vivid but harmonious."
+    },
+    {
+      "key": "pilots",
+      "transparent_background": true,
+      "prompt": "Use case: stylized-concept. Asset type: a production character roster sprite strip for a wholesome children's anime water-cycle racing game. Wide landscape composition with FOUR separate full-body anime adventurer pilots standing side by side in four exactly equally sized columns, centers at 12.5%,37.5%,62.5%,87.5% of width. Transparent background, no dividers. Each character fully inside its own column, same scale, clear empty gaps, no overlap, complete shoes and hair visible, slightly oversized expressive anime heads, young teen age-appropriate proportions and practical covered clothing. LEFT TO RIGHT: 1 Nala, cheerful girl with warm medium-brown skin, dark brown bob hair, yellow rain jacket, navy shorts over leggings, yellow boots, blue water-drop badge, hand on hip. 2 Raka, energetic boy with warm medium-brown skin, short tousled dark hair, coral red racing jacket, navy pants and sneakers, friendly confident grin. 3 Mika, thoughtful girl with light tan skin, dark violet short ponytail, purple and white rain jacket and pants, friendly eyes, one hand giving thumbs up. 4 Bayu, cheerful boy with brown skin, short black hair, teal turquoise racing jacket, navy pants and aqua boots, pilot goggles resting on head. Consistent crisp anime linework, high-quality cel shading, beautiful expressive faces, soft rim light, appealing collectible game character art. No text, no names written, no logos, no background elements, no watermark, no cropping."
+    }
+  ]
+}
